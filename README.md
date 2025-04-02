@@ -1,7 +1,7 @@
 # FlashCardApp
 FlashCardApp is an Android application that helps users learn through flashcards. The app allows users to view, flip, and mark flashcards as "mastered". Users can add, edit, and track their progress by going through unmastered cards.
 
-## FlashCardACtivity
+## FlashCardActivity
 
 Features
     Flashcards: The app displays a flashcard with a question and its corresponding answer.
@@ -25,7 +25,9 @@ Features:
 
 The ProgressTracker activity is designed to provide users with a visual representation of their progress in mastering flashcards. It shows the number of flashcards the user has mastered and displays a percentage indicating the user's overall progress.
 
-Clearing the Database (Wiping All Cards)
+
+## Clearing the flashcard table
+
     The app comes preloaded with 45+ theoritical programming questions and answers, but users have an option to clear all the flashcards from the database. This can be useful if you want to reset the app or remove all the data and fill the database with cards relevant for their own purposes. The feature includes a confirmation dialog to ensure the user intends to delete all the data.
 
 CRUD Operations and SQL Database
