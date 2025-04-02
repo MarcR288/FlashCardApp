@@ -49,7 +49,7 @@ Follow these steps to install FlashCardApp on your Android device:
 
 Download the APK:
 Click the following link to download the FlashCardApp APK:
-https://drive.google.com/file/d/1stRRl1GnbrMBcaZo7E6LbPPIs8kU-3Ar/view
+https://drive.google.com/file/d/1e3VKfzOgQ7391zYiTy9CxHsDWVxTMa_E/view?usp=drive_link
 
 Allow Installation from Unknown Sources:
 Go to your Settings app.
