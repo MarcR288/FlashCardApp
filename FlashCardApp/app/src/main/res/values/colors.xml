@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2196F3</color> <!-- Blue, change as needed -->
+
+    <!-- Define a darker variant of the primary color -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Dark Blue, change as needed -->
+
+    <!-- Define button-specific colors -->
+    <color name="colorButton">#2196F3</color> <!-- Button Blue, change as needed -->
+
+    <!-- Define other colors (for secondary buttons or ribbons) -->
+    <color name="colorSecondaryButton">#64B5F6</color> <!-- Lighter blue for secondary buttons -->
+</resources>

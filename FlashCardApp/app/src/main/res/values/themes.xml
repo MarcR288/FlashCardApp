@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FlashCardApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Set your custom primary color (change this to your desired color) -->
+        <!-- Set your custom primary color (blue) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- Set your custom primary variant (darker shade of primary) -->
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+
+        <!-- Set your custom onPrimary color (text color on primary background) -->
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Set your custom secondary color (accent color for buttons and other UI) -->
+        <item name="colorSecondary">@color/colorSecondaryButton</item>
+
+        <!-- Optional: Set the status bar color -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+
+
+
+    </style>
+
+    <style name="Theme.FlashCardApp" parent="Base.Theme.FlashCardApp" />
+</resources>
