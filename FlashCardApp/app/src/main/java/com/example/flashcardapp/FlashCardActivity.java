@@ -74,7 +74,11 @@ public class FlashCardActivity extends AppCompatActivity {
         flipCardButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                answerTextView.setVisibility(View.VISIBLE);
+                if (answerTextView.getVisibility() != View.VISIBLE){
+                    answerTextView.setVisibility(View.VISIBLE);
+                } else {
+                    answerTextView.setVisibility(View.GONE);
+                }
             }
         });
 
