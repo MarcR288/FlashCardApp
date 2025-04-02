@@ -28,7 +28,7 @@ The ProgressTracker activity is designed to provide users with a visual represen
 
 ## Clearing the flashcard table
 
-    The app comes preloaded with 45+ theoritical programming questions and answers, but users have an option to clear all the flashcards from the database. This can be useful if you want to reset the app or remove all the data and fill the database with cards relevant for their own purposes. The feature includes a confirmation dialog to ensure the user intends to delete all the data.
+The app comes preloaded with 45+ theoritical programming questions and answers, but users have an option to clear all the flashcards from the database. This can be useful if you want to reset the app or remove all the data and fill the database with cards relevant for their own purposes. The feature includes a confirmation dialog to ensure the user intends to delete all the data.
 
 CRUD Operations and SQL Database
     The Flashcard App uses a SQLite database to store and manage flashcards. The app supports CRUD operations: Create, Read, Update, and Delete. These operations enable users to add, view, modify, and delete flashcards in the app, while ensuring efficient data management.
